@@ -1,4 +1,4 @@
-# Backup_Automatizado_Shell_Scritp
+# Backup_Automatizado_Shell_Script
 Criei um laboratório para praticar a implementação de backup automatizado através do Shell Script, matéria estudada pela faculdade esse mês. 
 
 **Autora:** Maira Rocha 
